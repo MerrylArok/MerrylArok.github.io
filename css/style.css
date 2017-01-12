@@ -6,6 +6,7 @@ black:040403
       
       body {
         line-height: 1.45;
+        background-color:#FFFFEA;
       }
       
       h2:before {
@@ -23,7 +24,7 @@ black:040403
         right: 0;
         left: 0;
         border: 5px solid black;
-        background-color: white;
+        background-color: #FFFFFF;
         font-family: Montserrat;
         font-size: 1.25em;
       }
