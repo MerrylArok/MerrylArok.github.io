@@ -3,7 +3,10 @@ red:
 blue:385F71
 black:040403
 */
-      
+      .mission{
+  font-style: italic;
+}
+
       body {
         line-height: 1.45;
         background-color:#F7F7F7;
