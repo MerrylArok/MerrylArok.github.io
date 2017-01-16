@@ -3,9 +3,6 @@ red:
 blue:385F71
 black:040403
 */
-      .mission{
-  font-style: italic;
-}
 
       body {
         line-height: 1.45;
@@ -73,19 +70,26 @@ black:040403
       
       .heading {
         padding-top: 7%;
-        padding-bottom: 3%;
+        padding-bottom: 2.6%;
         text-align: center;
         font-size: 3.2em;
         font-family: Montserrat;
         color: #003049;
               }
       /*Formatting for all paragraphs*/
+
       
       .para {
         margin: 0 auto;
         display: block;
         width: 55%;
               }
+
+
+      .mission{
+            font-style: italic;
+            padding-bottom:5%;
+                  }
       
       sectionHeadingDiv {
         margin: 0 -200% 0 0;
